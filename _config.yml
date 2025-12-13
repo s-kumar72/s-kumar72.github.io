@@ -23,7 +23,7 @@ repository               : "s-kumar72/s-kumar72.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sadhana-headshot.jpg"
   name             : "Sadhana Kumar"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical engineering and robotics undergraduate at Georgia Tech."
