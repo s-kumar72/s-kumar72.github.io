@@ -38,6 +38,6 @@ There were 4 main subsystems for this robot:​
 
 ### Mary Had a Little Lamb
 <video width="640" controls>
-  <source src="/files/IMG_8480 (online-video-cutter.com).mp4" type="video/mp4">
+  <source src="/files/Mary_Had_A_Little_Lamb.mp4" type="video/mp4">
 </video>
 
