@@ -25,7 +25,7 @@ There were 4 main subsystems for this robot:​
 | Bullet Valve             | Flow articulation (simulating mouth)         | MV310                     | Actuator      |
 | 24 V DC Power Supply     | Power supply                                 | NA                        | Power         |
 | Step Down Buck Converter | 24V to 5V step down                          | EA50                      | Power         |
-| Relay Switch             | Bullet valve control                         | Aediko 5V Relay Module   | Driver Board  |
+| Relay Switch             | Bullet valve control                         | Aediko 5V Relay Module    | Driver Board  |
 | PWM Servo Driver         | Servo control                                | PCA9685                   | Driver Board  |
 | Microphone               | Frequency monitoring                         | MAX9814                   | Sensor        |
 | Ultrasonic Sensor        | Start/stop flow based on user input          | HC-SR04                   | Sensor        |
