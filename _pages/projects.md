@@ -16,20 +16,6 @@ There were 4 main subsystems for this robot:​
 3. **Flow Control**: stepper motor adjusts flow for each note depending on pre-set, experimentally-derived steps to produce the best tone.
 4. **Sensing & Feedback**: microphone monitors output frequency of the flute and executes tuning sequence.
 
-### Component Overview
-| Component | Purpose | Part Number | Part Type |
-|-----------|---------|-------------|-----------|
-| Servo (9x) | Flute key actuation | MG996R | Actuator |
-| Servo (1x) | Flow valve actuation | MG996R | Actuator |
-| Flow Control Valve | Flow control from compressed air tank | McMaster 3019N124 | Regulator |
-| Bullet Valve | Flow articulation (simulating mouth) | MV310 | Actuator |
-| 24 V DC Power Supply | Power supply | NA | Power |
-| Step Down Buck Converter | 24V to 5V step down | EA50 | Power |
-| Relay Switch | Bullet valve control | Aediko 5V Relay Module | Driver Board |
-| PWM Servo Driver | Servo control | PCA9685 | Driver Board |
-| Microphone | Frequency monitoring | MAX9814 | Sensor |
-| Ultrasonic Sensor | Start/stop flow based on user input | HC-SR04 | Sensor |
-
 ### System Snapshot
 ![System Snapshot](/images/Slide3.jpg)
 
