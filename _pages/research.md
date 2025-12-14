@@ -6,15 +6,18 @@ author_profile: true
 ## Research Areas
 
 ### Advanced Manufacturing Pilot Facility (AMPF)
-The Advanced Manufacturing Pilot Facility (AMPF) at Georgia Tech is a 20,000-square-foot, reconfigurable research and development high-bay facility that bridges the gap between laboratory research and real-world manufacturing deployment. As the flagship facility of the Georgia Tech Manufacturing Institute (GTMI), AMPF brings together faculty, students, and industry partners to collaboratively develop, scale, and demonstrate advanced manufacturing technologies — from additive/hybrid manufacturing and digital manufacturing to robotics, automation, and AI-enabled systems — and to translate early-stage concepts into implementable solutions. It also serves as a teaching laboratory and workforce development hub, supporting academic research, industry collaborations, and training programs/
+The Advanced Manufacturing Pilot Facility (AMPF) at Georgia Tech is a 20,000-square-foot, reconfigurable research and development high-bay facility that bridges the gap between laboratory research and real-world manufacturing deployment. It also serves as a teaching laboratory and workforce development hub, supporting academic research, industry collaborations, and training programs.
 
-**Selected projects**
+I've been an undergraduate research assistant at the AMPF since Spring 2023, working under Dr. Zachary Brunson and Dr. Aaron Stebner.
+
+**Selected Projects**
 - **Schlieren Imaging for Gas Flow Visualization in the Optomec DED Printer**  
-  1–2 sentences on what you built + what you measured + the outcome.  
-  [Poster PDF](/files/posters/schlieren-poster.pdf) (optional) • [Project page](/projects/schlieren/) (optional)
+Schlieren photography is a flow visualization technique that relies on light refraction to image changes in density of a fluid. This project aimed to characterize the unknown, system agnostic mass flow pattern and source that causes high variability and periodicity in mass flow amonog nominal DED printers. I was responsible for designing the system integration with the Optomec DED and project management to ensure in-situ and ex-situ testing of the system met timeline requiements.
+[Poster PDF](/files/Schlieren_Poster.pdf) 
 
 - **Alternative Sealing Methods for Density Testing of Porous Additively Manufactured Parts**  
-  1–2 sentences + link(s) as needed.
+This is an independent project I'm conducting that is funded by the Georgia Tech President's Undergraduate Research Award. Because additively manufactured parts are inherently porous, they require oil impregnation for 1+ hours in order to measure their density via Archimedes method. This proves inefficient for large batches. Therefore, I am testing the viability of alternate sealing methods, including vacuum sealing, heat shrink, and IPA impregnation.
+[Whitepaper](/files/Density_Testing_Whitepaper.pdf)
 
 ### Aerospace Robotics Lab (ARL)
 A short 2–4 sentence overview of your work at ARL (platform + autonomy goal + your role).
