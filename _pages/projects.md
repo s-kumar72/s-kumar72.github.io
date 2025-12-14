@@ -32,4 +32,4 @@ The three ML models implemented for this project are:
 2. SVM - address imbalances in the dataset and improve performance using  minority class augmentation techniques and dimensionality reduction.
 3. CNN - designed to work with image data and capture spatial patterns like color, texture, and shape, which is critical to the problem of differentiating types of skin lesions.
 
-[Final Report](/files/CS_4641_Final_Report.pdf/)
+[Final Report](/files/CS_4641_Final_Report.pdf)
