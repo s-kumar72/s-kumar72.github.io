@@ -33,9 +33,6 @@ There were 4 main subsystems for this robot:​
 ### System Snapshot
 ![System Snapshot](/images/Slide3.jpg)
 
-### Electrical Diagram
-![Electrical Diagram](/images/Slide2.jpg/)
-
 ### Mary Had a Little Lamb
 <video width="640" controls>
   <source src="/files/Mary_Had_A_Little_Lamb.mp4" type="video/mp4">
