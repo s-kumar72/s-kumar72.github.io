@@ -6,7 +6,7 @@ author_profile: true
 ## Research Areas
 
 ### Advanced Manufacturing Pilot Facility (AMPF)
-A short...
+The Advanced Manufacturing Pilot Facility (AMPF) at Georgia Tech is a 20,000-square-foot, reconfigurable research and development high-bay facility that bridges the gap between laboratory research and real-world manufacturing deployment. As the flagship facility of the Georgia Tech Manufacturing Institute (GTMI), AMPF brings together faculty, students, and industry partners to collaboratively develop, scale, and demonstrate advanced manufacturing technologies — from additive/hybrid manufacturing and digital manufacturing to robotics, automation, and AI-enabled systems — and to translate early-stage concepts into implementable solutions. It also serves as a teaching laboratory and workforce development hub, supporting academic research, industry collaborations, and training programs that help de-risk innovations and prepare the next generation of manufacturing engineers.
 
 **Selected projects**
 - **Schlieren imaging for Optomec DED mass-flow variability**  
