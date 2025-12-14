@@ -31,10 +31,10 @@ There were 4 main subsystems for this robot:​
 | Ultrasonic Sensor        | Start/stop flow based on user input          | HC-SR04                   | Sensor        |
 
 ### System Snapshot
-[System Snapshot](/images/Slide3.jpg/)
+![System Snapshot](/images/Slide3.jpg)
 
 ### Electrical Diagram
-[Electrical Diagram](/images/Slide2.jpg/)
+![Electrical Diagram](/images/Slide2.jpg/)
 
 ### Mary Had a Little Lamb
 <video width="640" controls>
