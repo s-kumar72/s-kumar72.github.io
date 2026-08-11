@@ -18,13 +18,7 @@ Highlights of the system include:
 3. Local costmap for path planning around obstacles
 4. Training of obstacle classification model using YOLO dataset
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/watch?v=_x3aDHAftAU" 
-        title="Sidewalk Sidekick" frameborder="0" allowfullscreen
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        style="position: absolute; width: 100%; height: 100%;">
-</iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_x3aDHAftAU?si=fcQCIv5cPWDUNzEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <object data="/files/ExpoPres (1).pdf" type="application/pdf" width="100%" height="100%">
   <p>Your browser can’t display PDFs inline. <a href="/files/ExpoPres (1).pdf">Download the PDF</a>.</p>
