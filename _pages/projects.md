@@ -3,6 +3,19 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+## Sidewalk Sidekick (Mechanical Engineering Capstone)
+**Won overall Honorable Mention at Spring 2026 Capstone Expo (out of 230+ teams)**
+Navigating complex urban terrain is a challenge for blind and visually impaired people (BVIPs). Common obstacles include uneven sidewalks, curbs, construction zones, and transient barriers. While white canes and guide dogs remain the predominant technologies to assit with obstacle detection and navigation, these technologies fall short with regards to detection of non-ground-based obstacles and navigation to unfamiliar locations.
+
+Sidewalk Sidekick serves as an integrated platform for navigation and contextualized guidance for BVIP. It contains two main components:
+1. Robotic guidance platform (8 DOF quadrupedal architecture featuring a LIDAR and RGB depth camera for environmental contextualization and path planning)
+2. Ergonomic handle (Bluetooth enabled handle with integrated electronics, allowing the user to manually control the device (a) physically via button press or (b) auditorily via bone conduction headset)
+
+Highlights of the system include:
+1. Wheeled quadruped robotic platform with 8 actuators
+2. Electrical architecture for guidance quadruped and user interfacing handle
+3. Local costmap for path planning around obstacles
+4. Training of obstacle classification model using YOLO dataset
 
 ## Flute Musician
 'Flute Musician' was the final project for my mechatronics course (ME 4405). The motivation for this project was:
