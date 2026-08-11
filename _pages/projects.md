@@ -19,7 +19,7 @@ Highlights of the system include:
 4. Training of obstacle classification model using YOLO dataset
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_x3aDHAftAU?si=fcQCIv5cPWDUNzEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<br>
 <object data="/files/ExpoPres (1).pdf" type="application/pdf" width="100%" height="100%">
   <p>Your browser can’t display PDFs inline. <a href="/files/ExpoPres (1).pdf">Download the PDF</a>.</p>
 </object>
