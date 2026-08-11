@@ -17,6 +17,10 @@ Highlights of the system include:
 3. Local costmap for path planning around obstacles
 4. Training of obstacle classification model using YOLO dataset
 
+<object data="/files/SadhanaKumar_CV.pdf" type="application/pdf" width="100%" height="1200px">
+  <p>Your browser can’t display PDFs inline. <a href="/files/CV.pdf">Download the PDF</a>.</p>
+</object>
+
 ## Flute Musician
 'Flute Musician' was the final project for my mechatronics course (ME 4405). The motivation for this project was:
 > Can we replicate the embouchure technique and
