@@ -18,7 +18,7 @@ Highlights of the system include:
 3. Local costmap for path planning around obstacles
 4. Training of obstacle classification model using YOLO dataset
 
-<object data="/files/ExpoPres (1).pdf" type="application/pdf" width="100%" height="1200px">
+<object data="/files/ExpoPres (1).pdf" type="application/pdf" width="100%" height="500px">
   <p>Your browser can’t display PDFs inline. <a href="/files/ExpoPres (1).pdf">Download the PDF</a>.</p>
 </object>
 
