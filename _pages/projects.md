@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
 ---
 ## Sidewalk Sidekick (Mechanical Engineering Capstone)
 **Won overall Honorable Mention at Spring 2026 Capstone Expo (out of 230+ teams)**
