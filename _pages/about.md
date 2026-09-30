@@ -16,19 +16,19 @@ Featured Robotics Work
 ===========
 ### Autonomous UAV Reconnaissance for Fire Interiors
 
-**MRSD Capstone | Carnegie Mellon University | Fall 2026 - present**
+MRSD Capstone | Carnegie Mellon University | Fall 2026 - present
 
 Developing an autonomous UAV for pre-entry reconnaissance of smoke-filled and GPS-denied fire environments. Current work spans robust flight, collaborative SLAM, thermal perception, resilient communications, and integration of UAV sensing into a GUI visible to fire command.
 
 ### Multimodal Perception for Transparent Object Manipulation
 
-**11-785 Course Project (Intro to Deep Learning) | Carnegie Mellon University | Fall 2026 - present**
+11-785 Course Project (Intro to Deep Learning) | Carnegie Mellon University | Fall 2026 - present
 
 Exploring combining RGB-D and thermal data for robotic perception and manipulation of transparent objects, like glass ups. We are investigating learned multimodal perception under challenging sensing conditions and developing a reliability-aware sensor fusion model.
 
 ### Sidewalk Sidekick
 
-**Georgia Tech Undergraduate Capstone | Spring 2026**
+Georgia Tech Undergraduate Capstone | Spring 2026
 
 Developed an assistive robotic navigation system for blind and visually impaired individuals; the assistive platform used a wheeled quadruped architecture with LIDAR, RGB-D perception, and a shared control interface between the user and the robot. This project received an **Overall Honorable Mention** out of 230+ teams at Georgia Tech's Spring 2026 Capstone Expo.
 
@@ -36,7 +36,7 @@ Developed an assistive robotic navigation system for blind and visually impaired
 
 ### NOVA: A rover platform for Navigation, Operation, and Validation of Autonomy algorithms
 
-**Aerospace Robotics Lab Undergraduate Research, Georgia Tech | 2024 - 2025**
+Aerospace Robotics Lab Undergraduate Research, Georgia Tech | 2024 - 2025
 
 Developed a low-cost mobile rover platform for multi-agent autonomy research, integrating onboard compute, stereo vision, steering, power electronics, and a custom chassis.
 
