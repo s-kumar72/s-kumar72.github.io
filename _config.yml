@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Sadhana Kumar's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Sadhana's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Sadhana Kumar"
+description              : &description "Sadhana's personal portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://s-kumar72.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,10 +27,10 @@ author:
   name             : "Sadhana Kumar"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student in Robotic Systems Development at Carnegie Mellon University."
-  location         : "Austin, Texas"
+  location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "kumarsadhana75@gmail.com" 
+  email            : "sadhanak@andrew.cmu.edu" 
 
   # Academic websites
   academia         : # URL
