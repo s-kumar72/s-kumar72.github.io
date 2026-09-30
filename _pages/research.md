@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 ### Aerospace Robotics Lab (ARL)
 The Aerospace Robotics Lab at Georgia Tech researches aerospace systems that operate autonomously (safely, intelligently, and collaboratively) in uncertain and extreme environments. This includes multi-modal robotic systems for extreme terrain navigation, decision-making under uncertainty and safe exploration, and collaborative and multi-agent autonomy.
