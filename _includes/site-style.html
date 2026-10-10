@@ -1,0 +1,142 @@
+<style>
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap");
+
+:root {
+  --ink: #1b2430;
+  --muted: #5b6672;
+  --line: #d9dee5;
+  --accent: #2b4acb;
+  --accent-tint: #eef1fb;
+}
+
+/* Type */
+html body,
+html body h1, html body h2, html body h3, html body h4, html body h5, html body h6,
+html body button, html body input, html body textarea,
+.masthead__menu-item a {
+  font-family: "IBM Plex Sans", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+html body { color: var(--ink); }
+.page__content p, .page__content li, .page__content dd { line-height: 1.7; }
+.page__content a { color: var(--accent); }
+.page__content a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.page__content h2 { margin-top: 2.2em; }
+.page__content hr { margin: 2.5rem 0; border: 0; border-top: 1px solid var(--line); }
+
+/* Homepage hero */
+.hero {
+  display: grid;
+  grid-template-columns: 1fr minmax(10rem, 15rem);
+  gap: 2.5rem;
+  align-items: start;
+  margin: 1rem 0 3rem;
+}
+.hero__photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.page__content .hero__name {
+  margin: 0 0 1.25rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+.page__content .hero__text p { max-width: 38rem; margin: 0 0 1rem; font-size: 1.05rem; }
+.page__content .hero__links { margin-top: 1.5rem; }
+.hero__links span { margin: 0 .7rem; color: var(--muted); }
+@media (max-width: 700px) {
+  .hero { grid-template-columns: 1fr; gap: 1.5rem; }
+  .hero__photo { order: -1; max-width: 11rem; }
+  .page__content .hero__name { font-size: 2.1rem; }
+}
+
+/* Homepage project list */
+.page__content .section-title { margin: 0 0 1.5rem; font-size: 1.9rem; font-weight: 500; border: 0; }
+.proj {
+  display: grid;
+  grid-template-columns: 17rem 1fr;
+  gap: 1.75rem;
+  align-items: start;
+  margin: 0 0 2.5rem;
+}
+.proj--text { grid-template-columns: 1fr; }
+.proj__thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border: 1px solid var(--line);
+}
+.page__content .proj h3 { margin: 0 0 .4rem; font-size: 1.2rem; line-height: 1.35; }
+.page__content .proj p { margin: 0 0 .6rem; }
+.page__content .proj .proj__meta { color: var(--muted); font-size: .95rem; }
+.page__content .proj .proj__links a { margin-right: 1.1rem; font-weight: 500; }
+@media (max-width: 700px) {
+  .proj { grid-template-columns: 1fr; gap: 1rem; }
+}
+
+/* Skills */
+.skills {
+  display: grid;
+  grid-template-columns: minmax(9rem, 14rem) 1fr;
+  gap: .6rem 1.25rem;
+  margin: 1rem 0 2rem;
+}
+.skills dt { font-weight: 600; }
+.skills dd { margin: 0; }
+@media (max-width: 600px) {
+  .skills { grid-template-columns: 1fr; gap: .1rem; }
+  .skills dd { margin-bottom: .75rem; }
+}
+
+/* Projects and Research pages */
+.page__content .proj-meta { margin: -.4rem 0 1rem; color: var(--muted); font-size: .95rem; }
+.page__content ul.jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem 1.4rem;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  list-style: none;
+}
+.page__content ul.jump li { margin: 0; }
+.award {
+  display: inline-block;
+  padding: .35rem .75rem;
+  border-left: 3px solid var(--accent);
+  background: var(--accent-tint);
+  font-size: .92rem;
+  font-weight: 500;
+}
+.page__content a.btn-link {
+  display: inline-block;
+  margin: .25rem .5rem .25rem 0;
+  padding: .4rem .85rem;
+  border: 1px solid var(--accent);
+  border-radius: 3px;
+  color: var(--accent);
+  font-size: .9rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+.page__content a.btn-link:hover { background: var(--accent); color: #fff; }
+
+/* Media */
+.video-wrap { position: relative; aspect-ratio: 16 / 9; width: 100%; max-width: 720px; margin: 1.5rem 0; }
+.video-wrap iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.page__content figure { margin: 1.25rem 0; }
+.page__content figure img, .page__content figure video {
+  display: block; width: 100%; max-width: 720px; height: auto; border: 1px solid var(--line);
+}
+.page__content figcaption { margin-top: .4rem; color: var(--muted); font-size: .85rem; }
+.figure-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+.figure-row figure { margin: 0; }
+</style>
