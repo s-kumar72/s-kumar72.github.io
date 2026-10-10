@@ -22,7 +22,7 @@ redirect_from:
 <p class="hero__links"><a href="mailto:sadhanak@andrew.cmu.edu">Email</a><span>/</span><a href="https://github.com/s-kumar72">GitHub</a></p>
 <!-- To add LinkedIn, insert after GitHub: <span>/</span><a href="YOUR_LINKEDIN_URL">LinkedIn</a> -->
 </div>
-<img class="hero__photo" src="/images/profile.png" alt="Sadhana Kumar" onerror="this.style.display='none'">
+<img class="hero__photo" src="/images/sadhana-headshot.png" alt="Sadhana Kumar" onerror="this.style.display='none'">
 </div>
 
 <h2 class="section-title">Projects</h2>
