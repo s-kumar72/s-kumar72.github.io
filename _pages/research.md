@@ -4,6 +4,8 @@ permalink: /research/
 author_profile: false
 ---
 
+{% include site-style.html %}
+
 <ul class="jump">
 <li><a href="#aerospace-robotics-lab-arl">Aerospace Robotics Lab</a></li>
 <li><a href="#advanced-manufacturing-pilot-facility-ampf">Advanced Manufacturing Pilot Facility</a></li>
