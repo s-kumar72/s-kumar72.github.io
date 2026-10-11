@@ -22,7 +22,7 @@ redirect_from:
 <p class="hero__links"><a href="mailto:sadhanak@andrew.cmu.edu">Email</a><span>/</span><a href="https://github.com/s-kumar72">GitHub</a></p>
 <!-- To add LinkedIn, insert after GitHub: <span>/</span><a href="YOUR_LINKEDIN_URL">LinkedIn</a> -->
 </div>
-<img class="hero__photo" src="/images/themes/sadhana-headshot.png" alt="Sadhana Kumar" onerror="this.style.display='none'">
+<img class="hero__photo" src="/images/sadhana-headshot.jpg" alt="Sadhana Kumar" onerror="this.style.display='none'">
 </div>
 
 <h2 class="section-title">Projects</h2>
@@ -57,7 +57,7 @@ redirect_from:
 <img class="proj__thumb" src="/images/Slide4.jpg" alt="NOVA rover platform overview" loading="lazy">
 <div class="proj__body">
 <h3>NOVA: a rover platform for Navigation, Operation, and Validation of Autonomy algorithms</h3>
-<p class="proj__meta">Aerospace Robotics Lab, Georgia Tech. 2024 to 2025</p>
+<p class="proj__meta">Aerospace Robotics Lab, Georgia Tech. 2025 to 2026</p>
 <p>A low-cost mobile rover for multi-agent autonomy research, integrating onboard compute, stereo vision, steering, power electronics, and a custom chassis.</p>
 <p class="proj__links"><a href="/research/#nova">Research page</a></p>
 </div>
