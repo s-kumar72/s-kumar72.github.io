@@ -4,6 +4,8 @@ permalink: /projects/
 author_profile: false
 ---
 
+{% include site-style.html %}
+
 <ul class="jump">
 <li><a href="#sidewalk-sidekick">Sidewalk Sidekick</a></li>
 <li><a href="#flute-musician">Flute Musician</a></li>
