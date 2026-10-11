@@ -54,7 +54,7 @@ html body { color: var(--ink); }
 }
 
 /* Homepage project list */
-.page__content .section-title { margin: 0 0 1.5rem; font-size: 1.9rem; font-weight: 500; border: 0; }
+.page__content .section-title { margin: 3rem 0 1.5rem; font-size: 1.6rem; font-weight: 500; border: 0; }
 .proj {
   display: grid;
   grid-template-columns: 17rem 1fr;
@@ -79,17 +79,24 @@ html body { color: var(--ink); }
 }
 
 /* Skills */
-.skills {
+.page__content .skills {
   display: grid;
   grid-template-columns: minmax(9rem, 14rem) 1fr;
-  gap: .6rem 1.25rem;
+  gap: .7rem 1.5rem;
+  align-items: baseline;
   margin: 1rem 0 2rem;
 }
-.skills dt { font-weight: 600; }
-.skills dd { margin: 0; }
+.page__content .skills dt,
+.page__content .skills dd {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.page__content .skills dt { font-weight: 600; }
 @media (max-width: 600px) {
-  .skills { grid-template-columns: 1fr; gap: .1rem; }
-  .skills dd { margin-bottom: .75rem; }
+  .page__content .skills { grid-template-columns: 1fr; gap: .1rem; }
+  .page__content .skills dd { margin-bottom: .75rem; }
 }
 
 /* Projects and Research pages */
