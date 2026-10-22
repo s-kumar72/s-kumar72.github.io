@@ -23,6 +23,19 @@ The Aerospace Robotics Lab researches aerospace systems that operate autonomousl
 
 I lead the effort to build a modular, 3D-printed lunar rover platform (Navigation, Operation, and Validation of Autonomy algorithms) that gives researchers an accessible testbed for multi-agent autonomy. I designed the electrical system and chassis integration, reviewed the mechanical design, and fabricated the rover.
 
+<p><span class="award">Released as open-source hardware, October 2026</span></p>
+
+NOVA is a four-wheel rover with independently steered swerve modules on a differential-bar (rocker) chassis, built to test planetary autonomy on the lab's lunar-analog testbed. The full SolidWorks assembly (13 sub-assemblies, 56 parts), STEP files, bill of materials, and build guide are now public so other labs and student teams can rebuild, modify, and extend it.
+
+**Highlights**
+
+- Four swerve modules: 100:1 gearmotors for drive, Dynamixel XL430 servos for steering
+- NVIDIA Jetson Orin Nano for perception with a ZED 2i stereo camera; Raspberry Pi Pico 2W for motor control and the BNO055 IMU
+- 3S 10 Ah LiPo power system with a Matek power distribution board
+- Structure of 3D-printed PLA, 6061 aluminum plate, and aluminum tube
+
+<p><a class="btn-link" href="https://aerospaceroboticslab.github.io/nova.html">Project page</a> <a class="btn-link" href="https://github.com/AstroX-OpenRover/NOVA2">GitHub repo</a> <a class="btn-link" href="https://lnkd.in/p/gNNJXiXk">Announcement</a></p>
+
 <div class="figure-row">
 <figure>
 <img src="/images/Slide4.jpg" alt="NOVA overview" loading="lazy">
