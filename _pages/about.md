@@ -58,8 +58,8 @@ redirect_from:
 <div class="proj__body">
 <h3>NOVA: a rover platform for Navigation, Operation, and Validation of Autonomy algorithms</h3>
 <p class="proj__meta">Aerospace Robotics Lab, Georgia Tech. 2025 to 2026</p>
-<p>A low-cost mobile rover for multi-agent autonomy research, integrating onboard compute, stereo vision, steering, power electronics, and a custom chassis.</p>
-<p class="proj__links"><a href="/research/#nova">Research page</a></p>
+<p>A low-cost mobile rover for multi-agent autonomy research, integrating onboard compute, stereo vision, steering, power electronics, and a custom chassis. Now open source: the full CAD and bill of materials are public so other labs and student teams can build their own.</p>
+<p class="proj__links"><a href="/research/#nova">Research page</a><a href="https://github.com/AstroX-OpenRover/NOVA2">GitHub</a><a href="https://aerospaceroboticslab.github.io/nova.html">Project page</a></p>
 </div>
 </div>
 
