@@ -35,11 +35,13 @@ redirect_from:
 </div>
 </div>
 
-<div class="proj proj--text">
+<div class="proj">
+<img class="proj__thumb" src="/images/fig_sensors-1.png" alt="Simulation sensor setup for multimodal transparent object manipulation" loading="lazy">
 <div class="proj__body">
 <h3>Multimodal perception for transparent object manipulation</h3>
 <p class="proj__meta">11-785 Intro to Deep Learning project, Carnegie Mellon University. Fall 2026 to present</p>
-<p>Combining RGB-D and thermal data so a robot can perceive and manipulate transparent objects like glass cups. We are building a reliability-aware sensor fusion model for challenging sensing conditions.</p>
+<p>Combining RGB-D and thermal data so a robot can perceive and manipulate transparent objects like glass cups. We are building a reliability-aware sensor fusion model for challenging environmental conditions.</p>
+<p class="proj__links"><a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">GitHub</a></p>
 </div>
 </div>
 
