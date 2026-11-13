@@ -4,9 +4,6 @@ main:
   - title: "Projects"
     url: /#projects
 
-  - title: "Experience"
-    url: /#experience
-
   - title: "Research"
     url: /research/
 
