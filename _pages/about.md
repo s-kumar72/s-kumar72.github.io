@@ -47,9 +47,9 @@ redirect_from:
 
 <div class="project">
 <img src="/images/uav-radar.jpg" alt="Top-down radar intensity map from the UAV's sensor, showing returns from walls and objects around the radar" loading="lazy">
-<h3>Autonomous UAV for fire reconnaissance</h3>
+<h3>FireFlight: an autonomous drone for fire search and rescue</h3>
 <p class="when">CMU MRSD capstone · Fall 2026 to present</p>
-<p>A drone that scouts smoke-filled, GPS-denied buildings before firefighters go in, using thermal and radar perception, collaborative SLAM, and a map-based GUI for fire command.</p>
+<p>In the first minutes of a house fire, the drone autonomously flies around the building, mapping it in real time and using thermal, radar, and RGB sensing to spot occupants, exits, and areas at risk of flashover. Firefighters' wearables show their positions on the same live map, so command can guide crews to victims and back out safely.</p>
 </div>
 
 <div class="project">
