@@ -14,9 +14,9 @@
   margin: .5rem 0 2.75rem;
 }
 .intro__photo {
-  flex: 0 0 9rem;
-  width: 9rem;
-  height: 9rem;
+  flex: 0 0 10rem;
+  width: 10rem;
+  height: 10rem;
   border-radius: 50%;
   object-fit: cover;
   background: var(--accent-tint);
@@ -28,8 +28,22 @@
   line-height: 1.1;
 }
 .page__content .intro p { max-width: 38rem; margin: 0 0 .6rem; }
-.page__content .intro .links { margin-top: .9rem; font-weight: 500; }
-.intro .links a { margin-right: 1.25rem; }
+.page__content .intro .buttons { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.1rem; }
+.page__content a.button {
+  display: inline-block;
+  padding: .45rem 1.1rem;
+  border: 1.5px solid var(--accent);
+  border-radius: 6px;
+  color: var(--accent);
+  font-size: .92rem;
+  font-weight: 500;
+  line-height: 1.3;
+  text-decoration: none;
+  transition: background-color .15s ease, color .15s ease;
+}
+.page__content a.button:hover,
+.page__content a.button--primary { background: var(--accent); color: var(--global-bg-color); }
+.page__content a.button--primary:hover { background: transparent; color: var(--accent); }
 @media (max-width: 640px) {
   .intro { flex-direction: column; align-items: flex-start; gap: 1.25rem; }
   .intro__photo { flex-basis: auto; width: 7rem; height: 7rem; }

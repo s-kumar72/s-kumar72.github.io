@@ -18,9 +18,9 @@ redirect_from:
 <img class="intro__photo" src="/images/sadhana-headshot.jpg" alt="Sadhana Kumar" onerror="this.style.display='none'">
 <div>
 <h1>Sadhana Kumar</h1>
-<p>Robotics master's student (MRSD) at Carnegie Mellon, graduating May 2028. I work on perception and autonomy for robots in hard real-world settings: smoke-filled buildings, city sidewalks, lunar terrain.</p>
-<p>Before CMU: BS in Mechanical Engineering with a minor in Robotics from Georgia Tech, where I did research in the Aerospace Robotics Lab.</p>
-<p class="links"><a href="mailto:sadhanak@andrew.cmu.edu">Email</a><a href="https://github.com/s-kumar72">GitHub</a><a href="https://www.linkedin.com/in/sadhana--kumar">LinkedIn</a></p>
+<p>Hi! I'm a graduate student in Robotic Systems Development (MRSD) at Carnegie Mellon University, expected to graduate in May 2028. I graduated from Georgia Tech in May 2026 with a BS in Mechanical Engineering and a minor in Robotics.</p>
+<p>I'm interested in robot learning, multimodal sensing and perception, human-robot interaction, and autonomous systems, especially robots that must operate in challenging real-world environments. My experience spans perception, simulation, autonomy, and hardware-software integration on mobile and assistive platforms.</p>
+<p class="buttons"><a class="button button--primary" href="mailto:sadhanak@andrew.cmu.edu">Email</a><a class="button" href="https://github.com/s-kumar72">GitHub</a><a class="button" href="https://www.linkedin.com/in/sadhana--kumar">LinkedIn</a></p>
 </div>
 </section>
 
