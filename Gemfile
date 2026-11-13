@@ -19,3 +19,5 @@ gem 'base64'
 gem 'bigdecimal'
 gem 'logger'
 gem 'ostruct'
+# Liquid 4.0.3 crashes on Ruby 3.2+ ("undefined method 'tainted?'"); 4.0.4 fixes it.
+gem 'liquid', '>= 4.0.4'
