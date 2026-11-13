@@ -60,6 +60,11 @@ html body h1, html body h2, html body h3, .masthead .masthead__menu-item--lg a {
   font-family: "Fraunces", Georgia, serif;
 }
 .masthead .masthead__menu-item--lg a { font-weight: 600; }
+/* Only a couple of nav links, so they always stay visible: no menu button */
+#site-nav > button, #site-nav .hidden-links { display: none !important; }
+#site-nav .visible-links { display: flex; flex-wrap: wrap; align-items: center; }
+#site-nav .visible-links li { display: block; }
+#site-nav .visible-links li:first-child { margin-right: auto; }
 </style>
 
 <!-- end custom head snippets -->

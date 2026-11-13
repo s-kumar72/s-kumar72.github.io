@@ -18,9 +18,9 @@ redirect_from:
 <img class="intro__photo" src="/images/sadhana-headshot.jpg" alt="Sadhana Kumar" onerror="this.style.display='none'">
 <div>
 <h1>Sadhana Kumar</h1>
-<p>Hi! I'm a graduate student in Robotic Systems Development (MRSD) at Carnegie Mellon University, expected to graduate in May 2028. I graduated from Georgia Tech in May 2026 with a BS in Mechanical Engineering and a minor in Robotics.</p>
-<p>I'm interested in robot learning, multimodal sensing and perception, human-robot interaction, and autonomous systems, especially robots that must operate in challenging real-world environments. My experience spans perception, simulation, autonomy, and hardware-software integration on mobile and assistive platforms.</p>
-<p class="buttons"><a class="button button--primary" href="mailto:sadhanak@andrew.cmu.edu">Email</a><a class="button" href="https://github.com/s-kumar72">GitHub</a><a class="button" href="https://www.linkedin.com/in/sadhana--kumar">LinkedIn</a></p>
+<p>Hi! I'm a graduate student in <strong class="hl">Robotic Systems Development (MRSD)</strong> at <strong class="hl">Carnegie Mellon University</strong>, expected to graduate in May 2028. I graduated from <strong class="hl">Georgia Tech</strong> in May 2026 with a BS in Mechanical Engineering and a minor in Robotics.</p>
+<p>I'm interested in <strong class="hl">robot learning</strong>, <strong class="hl">multimodal sensing and perception</strong>, <strong class="hl">human-robot interaction</strong>, and <strong class="hl">autonomous systems</strong>, especially robots that must operate in challenging real-world environments. My experience spans perception, simulation, autonomy, and hardware-software integration on mobile and assistive platforms.</p>
+<p class="buttons"><a class="button" href="mailto:sadhanak@andrew.cmu.edu">Email</a><a class="button" href="https://github.com/s-kumar72">GitHub</a><a class="button" href="https://www.linkedin.com/in/sadhana--kumar">LinkedIn</a></p>
 </div>
 </section>
 
@@ -30,10 +30,10 @@ redirect_from:
 
 <div class="project">
 <a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation"><img src="/images/fig_sensors-1.png" alt="Simulation sensor setup for multimodal transparent object manipulation" loading="lazy"></a>
-<h3><a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">Seeing transparent objects</a></h3>
+<h3><a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">Multimodal perception for transparent object manipulation</a></h3>
 <p class="when">CMU Deep Learning (11-785) · Fall 2026 to present</p>
 <p>Fusing RGB-D and thermal data so a robot can perceive and grasp glass cups and other transparent objects.</p>
-<p class="links"><a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">GitHub</a></p>
+<p class="buttons"><a class="button button--small" href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">GitHub</a></p>
 </div>
 
 <div class="project">
@@ -42,7 +42,7 @@ redirect_from:
 <p class="when">Georgia Tech capstone · Spring 2026</p>
 <p>A wheeled quadruped with LIDAR, RGB-D perception, and a shared-control handle that guides blind and visually impaired people around sidewalk obstacles.</p>
 <p class="note">Overall Honorable Mention out of 230+ teams</p>
-<p class="links"><a href="/projects/#sidewalk-sidekick">Details</a><a href="https://youtu.be/_x3aDHAftAU">Video</a></p>
+<p class="buttons"><a class="button button--small" href="/projects/#sidewalk-sidekick">Details</a><a class="button button--small" href="https://youtu.be/_x3aDHAftAU">Video</a></p>
 </div>
 
 <div class="project">
@@ -58,7 +58,7 @@ redirect_from:
 <p class="when">Aerospace Robotics Lab, Georgia Tech · 2025 to 2026</p>
 <p>A low-cost rover for multi-agent autonomy research. I led the build and designed the electrical system and chassis integration.</p>
 <p class="note">Released as open-source hardware</p>
-<p class="links"><a href="/research/#nova">Details</a><a href="https://github.com/AstroX-OpenRover/NOVA2">GitHub</a></p>
+<p class="buttons"><a class="button button--small" href="/research/#nova">Details</a><a class="button button--small" href="https://github.com/AstroX-OpenRover/NOVA2">GitHub</a></p>
 </div>
 
 </div>

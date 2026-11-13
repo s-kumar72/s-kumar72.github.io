@@ -41,9 +41,11 @@
   text-decoration: none;
   transition: background-color .15s ease, color .15s ease;
 }
-.page__content a.button:hover,
-.page__content a.button--primary { background: var(--accent); color: var(--global-bg-color); }
-.page__content a.button--primary:hover { background: transparent; color: var(--accent); }
+.page__content a.button:hover { background: var(--accent); color: var(--global-bg-color); }
+.page__content a.button--small { padding: .3rem .85rem; font-size: .85rem; }
+.page__content .buttons { display: flex; flex-wrap: wrap; gap: .5rem; }
+.page__content .project .buttons { margin-top: .75rem; }
+.page__content strong.hl { color: var(--accent); font-weight: 600; }
 @media (max-width: 640px) {
   .intro { flex-direction: column; align-items: flex-start; gap: 1.25rem; }
   .intro__photo { flex-basis: auto; width: 7rem; height: 7rem; }
@@ -80,7 +82,6 @@
 .page__content .project p { margin: 0 0 .45rem; font-size: .95rem; line-height: 1.6; }
 .page__content .project .when { color: var(--muted); font-size: .85rem; }
 .page__content .project .note { color: var(--accent); font-size: .88rem; font-weight: 500; }
-.page__content .project .links a { margin-right: 1rem; font-size: .9rem; font-weight: 500; }
 .page__content .more { margin: 1.75rem 0 0; color: var(--muted); }
 @media (max-width: 760px) {
   .projects { grid-template-columns: 1fr; }
