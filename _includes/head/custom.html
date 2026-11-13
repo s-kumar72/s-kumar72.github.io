@@ -12,6 +12,59 @@
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="#ffffff"/>
+<meta name="theme-color" content="#f5efe4"/>
+
+<!-- Site-wide palette and fonts: plum on warm beige -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+html:root {
+  --ink: #2b2126;
+  --muted: #6e6168;
+  --line: #e2d7c8;
+  --accent: #8c2f5c;
+  --accent-tint: #f0e1e2;
+  --global-bg-color: #f5efe4;
+  --global-footer-bg-color: #efe7da;
+  --global-border-color: #e2d7c8;
+  --global-text-color: #2b2126;
+  --global-link-color: #8c2f5c;
+  --global-link-color-hover: #6a1f43;
+  --global-link-color-visited: #8c2f5c;
+  --global-masthead-link-color: #2b2126;
+  --global-masthead-link-color-hover: #8c2f5c;
+}
+html:root[data-theme="dark"] {
+  --ink: #efe7e9;
+  --muted: #b3a6ac;
+  --line: #3d3338;
+  --accent: #e48bb3;
+  --accent-tint: #3a2430;
+  --global-bg-color: #1f1a1d;
+  --global-footer-bg-color: #1a1618;
+  --global-border-color: #3d3338;
+  --global-text-color: #efe7e9;
+  --global-link-color: #e48bb3;
+  --global-link-color-hover: #f2b3cf;
+  --global-link-color-visited: #e48bb3;
+  --global-masthead-link-color: #efe7e9;
+  --global-masthead-link-color-hover: #e48bb3;
+}
+html body { color: var(--ink); }
+html body, html body button, html body input, html body textarea {
+  font-family: "IBM Plex Sans", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+.masthead__menu-item a { font-family: "IBM Plex Sans", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+html body h1, html body h2, html body h3, .masthead .masthead__menu-item--lg a {
+  font-family: "Fraunces", Georgia, serif;
+}
+.masthead .masthead__menu-item--lg a { font-weight: 600; }
+/* Only a couple of nav links, so they always stay visible: no menu button */
+#site-nav > button, #site-nav .hidden-links { display: none !important; }
+#site-nav .visible-links { display: flex; flex-wrap: wrap; align-items: center; }
+#site-nav .visible-links li { display: block; }
+#site-nav .visible-links li:first-child { margin-right: auto; }
+</style>
 
 <!-- end custom head snippets -->
