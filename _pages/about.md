@@ -20,7 +20,7 @@ redirect_from:
 <h1>Sadhana Kumar</h1>
 <p>Robotics master's student (MRSD) at Carnegie Mellon, graduating May 2028. I work on perception and autonomy for robots in hard real-world settings: smoke-filled buildings, city sidewalks, lunar terrain.</p>
 <p>Before CMU: BS in Mechanical Engineering with a minor in Robotics from Georgia Tech, where I did research in the Aerospace Robotics Lab.</p>
-<p class="links"><a href="mailto:sadhanak@andrew.cmu.edu">Email</a><a href="/cv/">CV</a><a href="https://github.com/s-kumar72">GitHub</a><a href="https://www.linkedin.com/in/sadhana--kumar">LinkedIn</a></p>
+<p class="links"><a href="mailto:sadhanak@andrew.cmu.edu">Email</a><a href="https://github.com/s-kumar72">GitHub</a><a href="https://www.linkedin.com/in/sadhana--kumar">LinkedIn</a></p>
 </div>
 </section>
 
