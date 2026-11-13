@@ -49,7 +49,7 @@ redirect_from:
 <img src="/images/uav-radar.jpg" alt="Top-down radar intensity map from the UAV's sensor, showing returns from walls and objects around the radar" loading="lazy">
 <h3>FireFlight: an autonomous drone for fire search and rescue</h3>
 <p class="when">CMU MRSD capstone · Fall 2026 to present</p>
-<p>An autonomous drone and firefighter wearables to give fire crews better situational awareness during search and rescue. We're developing a system that combines thermal, radar, and RGB sensing with mapping and a live map for fire command.</p>
+<p>An autonomous drone and firefighter wearables to give fire crews better situational awareness during search and rescue. We're developing a system that combines thermal, radar, and RGB sensing with collaborative SLAM and a live map for fire command.</p>
 </div>
 
 <div class="project">
