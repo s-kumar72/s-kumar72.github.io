@@ -29,6 +29,14 @@ redirect_from:
 <div class="projects">
 
 <div class="project">
+<a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation"><img src="/images/fig_sensors-1.png" alt="Simulation sensor setup for multimodal transparent object manipulation" loading="lazy"></a>
+<h3><a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">Seeing transparent objects</a></h3>
+<p class="when">CMU Deep Learning (11-785) · Fall 2026 to present</p>
+<p>Fusing RGB-D and thermal data so a robot can perceive and grasp glass cups and other transparent objects.</p>
+<p class="links"><a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">GitHub</a></p>
+</div>
+
+<div class="project">
 <a href="/projects/#sidewalk-sidekick"><img src="https://img.youtube.com/vi/_x3aDHAftAU/hqdefault.jpg" alt="Sidewalk Sidekick wheeled quadruped robot" loading="lazy"></a>
 <h3><a href="/projects/#sidewalk-sidekick">Sidewalk Sidekick</a></h3>
 <p class="when">Georgia Tech capstone · Spring 2026</p>
@@ -51,14 +59,6 @@ redirect_from:
 <p>A low-cost rover for multi-agent autonomy research. I led the build and designed the electrical system and chassis integration.</p>
 <p class="note">Released as open-source hardware</p>
 <p class="links"><a href="/research/#nova">Details</a><a href="https://github.com/AstroX-OpenRover/NOVA2">GitHub</a></p>
-</div>
-
-<div class="project">
-<a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation"><img src="/images/fig_sensors-1.png" alt="Simulation sensor setup for multimodal transparent object manipulation" loading="lazy"></a>
-<h3><a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">Seeing transparent objects</a></h3>
-<p class="when">CMU Deep Learning (11-785) · Fall 2026 to present</p>
-<p>Fusing RGB-D and thermal data so a robot can perceive and grasp glass cups and other transparent objects.</p>
-<p class="links"><a href="https://github.com/s-kumar72/multimodal-transparent-object-manipulation">GitHub</a></p>
 </div>
 
 </div>
